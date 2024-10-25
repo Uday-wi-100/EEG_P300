@@ -1,1 +1,2 @@
 # EEG_P300
+Intent-based brain-computer interfaces (BCIs) represent a promising technology for enabling direct communication between the brain and external devices, particularly benefiting individuals with severe motor impairments.The P300 speller paradigm is a key application that detects the P300 event-related potential for character selection. Despite advancements, achieving high accuracy in P300 signal classification remains a challenge due to the inherent complexity and variability of electroencephalography (EEG) signals.
